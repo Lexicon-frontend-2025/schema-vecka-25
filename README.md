@@ -1,17 +1,17 @@
-# SCHEMA VECKA 25
+# 📅 SCHEMA VECKA 25
 
 Övergripande schema över veckan
 
 ###### HTML/CSS, vecka 4 av 4
 
-## Mål för veckan
+## 🎯 Mål för veckan
 
 1. Förstå och kunna använda **fluid design-principer** med `clamp()`, `min()`, `max()` och relativa enheter (`vw`, `%`, `em`, `rem`) för skalbara layouts.
 2. Lära sig använda **media queries** och **container queries** för att skapa responsiva och komponentbaserade designmönster.
 3. Förstå tillgänglighetsaspekter vid användning av **formulär** och olika `input`-typer.
 4. Kunna skapa formulär med korrekt **semantik**, **etiketter**, **validering** (basic HTML5).
 
-## Material
+## 📑 Material
 
 #### E-Learning:
 
@@ -47,7 +47,7 @@
 
 * [HTML-element](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
 
-## Lektionsrepon
+## 📆 Lektionsrepon
 
 * **[Måndag](https://github.com/Lexicon-frontend-2025/lektion-16-juni)** – Fluid design: clamp, media queries, container queries. Övning i responsiv design. Arbete med Planned Planthood.
 * **[Tisdag](https://github.com/Lexicon-frontend-2025/lektion-17-juni)** – Formulär: inputs, input types, labels, grundläggande validering, tillgänglighet. Övning i formulär. Arbete med Planned Planthood.
