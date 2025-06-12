@@ -14,16 +14,13 @@
 ## 📚 Material
 
 #### E-Learning:
-
 * [HTML forms](https://app.pluralsight.com/library/courses/html-forms-creating/table-of-contents)
 * Mer kommer ev. att läggas till under veckan.
 
 #### Youtube
-
+* [Media/Container queries](https://www.youtube.com/watch?v=2rlWBZ17Wes)
 * [CSS clamp() explained](https://www.youtube.com/watch?v=U9VF-4euyRo)
-* [Container Queries, Kevin Powell](https://www.youtube.com/watch?v=tZzYqDKZzvY)
 * [Accessible Forms – Web Dev Simplified](https://www.youtube.com/watch?v=GgT5XKaugkY)
-* [Creating Modals, Kevin Powell](https://www.youtube.com/watch?v=MBaw_6cPmAw)
 
 #### Läsning
 
@@ -52,5 +49,5 @@
 * **[Måndag](https://github.com/Lexicon-frontend-2025/lektion-16-juni)** – Fluid design: clamp, media queries, container queries. Övning i responsiv design. Arbete med Planned Planthood.
 * **[Tisdag](https://github.com/Lexicon-frontend-2025/lektion-17-juni)** – Formulär: inputs, input types, labels, grundläggande validering, tillgänglighet. Övning i formulär. Arbete med Planned Planthood.
 * **[Onsdag](https://github.com/Lexicon-frontend-2025/lektion-18-juni)** – Arbete med Planned Planthood.
-* **Torsdag** – Code review på Planned Planthood. Arbeta vidare med Planned Planthood.
+* **Torsdag** – Code review på Planned Planthood. Arbeta vidare med Planned Planthood och inlämning.
 * **Fredag** – Ledigt.
