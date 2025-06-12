@@ -52,5 +52,5 @@
 * **[Måndag](https://github.com/Lexicon-frontend-2025/lektion-16-juni)** – Fluid design: clamp, media queries, container queries.
 * **[Tisdag](https://github.com/Lexicon-frontend-2025/lektion-17-juni)** – Formulär: inputs, input types, labels, grundläggande validering, tillgänglighet.
 * **[Onsdag](https://github.com/Lexicon-frontend-2025/lektion-18-juni)** – Formulär fortsättning. Introduktion till `<dialog>` och modaler.
-* **Torsdag** – Formulärövningar. Arbeta vidare med egna projekt eller övningar.
+* **Torsdag** – Formulärövningar. Arbeta vidare med Planned Planthood.
 * **Fredag** – Ledigt.
