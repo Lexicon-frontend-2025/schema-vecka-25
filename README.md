@@ -9,7 +9,7 @@
 1. Förstå och kunna använda **fluid design-principer** med `clamp()`, `min()`, `max()` och relativa enheter (`vw`, `%`, `em`, `rem`) för skalbara layouts.
 2. Lära sig använda **media queries** och **container queries** för att skapa responsiva och komponentbaserade designmönster.
 3. Förstå tillgänglighetsaspekter vid användning av **formulär** och olika `input`-typer.
-4. Kunna skapa formulär med korrekt **semantik**, **etiketter**, **validering** (basic HTML5), och hantera komponenter som **modaler/dialogrutor**.
+4. Kunna skapa formulär med korrekt **semantik**, **etiketter**, **validering** (basic HTML5).
 
 ## Material
 
@@ -38,7 +38,6 @@
 * [Responsiv design med `clamp()`](https://github.com/Lexicon-frontend-2025/HTML-CSS_uppgift-clamp/blob/main/README.md)
 * Anpassa komponenter med media/container queries
 * Bygg formulär med olika `input`-typer och validering
-* Skapa en dialog/modal med `<dialog>` och tillgänglig hantering
 
 ## Slides
 
