@@ -2,7 +2,7 @@
 
 Övergripande schema över veckan
 
-###### HTML/CSS, vecka 4 av 5
+###### HTML/CSS, vecka 4 av 4
 
 ## Mål för veckan
 
