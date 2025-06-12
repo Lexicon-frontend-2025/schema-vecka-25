@@ -15,7 +15,8 @@
 
 #### E-Learning:
 
-* Kommer att läggas till under veckan.
+* [HTML forms](https://app.pluralsight.com/library/courses/html-forms-creating/table-of-contents)
+* Mer kommer ev. att läggas till under veckan.
 
 #### Youtube
 
