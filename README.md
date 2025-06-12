@@ -27,7 +27,7 @@
 
 #### Läsning
 
-* [CSS-Tricks – Fluid Typography](https://css-tricks.com/using-calc-to-set-font-size/)
+* [CSS-Tricks – Fluid Typography](https://css-tricks.com/simplified-fluid-typography/)
 * [MDN – Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * [MDN - Container Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries)
 * [MDN – HTML Form Elements](https://developer.mozilla.org/en-US/docs/Learn/Forms)
