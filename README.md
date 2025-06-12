@@ -63,37 +63,12 @@ Diskutera dessa frågor i smågrupper under er code review. Syftet är att refle
 
 ---
 
-## 🧱 Struktur & Semantik
+- Vad var tanken bakom semantiken i er HTML?
+- Behövde ni ändra i er HTML när ni började CSS:a, eller såg ni redan innan vad som skulle behövas?
+- Vad var klurigast under arbetet?
+- Känns koden lättläst?
 
-- Vad var tanken bakom den semantiska strukturen i er HTML?
-- Behövde ni ändra i HTML:en när ni började med CSS, eller såg ni redan från början vad som behövdes?
-- Hur valde ni vilka HTML-element som skulle användas (t.ex. `<section>`, `<article>`, `<div>`, `<main>`)?
-- Har ni använt några element felaktigt? Upptäckte ni det under CSS-arbetet?
-- Hur tänkte ni kring tillgänglighet? (t.ex. `alt`, `label`, `aria`)
-
----
-
-## 🎨 CSS & Layout
-
-- Vad var det klurigaste att få till med CSS:en?
-- Har ni använt Flexbox eller Grid? Hur gick det?
-- Finns det delar där CSS-koden kunde förenklas eller struktureras bättre?
-
----
-
-## 🧹 Kodkvalitet & Läsbarhet
-
-- Hur har ni organiserat CSS-koden? (T.ex. sektioner, kommentarer, logik?)
-- Är era klasser och id:n tydliga och beskrivande?
-- Hur känns det att läsa er egen kod? Skulle ni förstå vad ni gjort om ni tittade på den om en månad?
-
----
-
-## 🔁 Arbetsprocess & Lärdomar
-
-- Gjorde ni några större ändringar under arbetets gång? Varför?
-- Om ni började om – vad skulle ni göra annorlunda?
-- Vad har ni lärt er som ni tar med er till nästa projekt?
+> 💬 Använd frågorna för att reflektera över era val och ert arbetssätt.
 
 ---
 
