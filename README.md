@@ -34,7 +34,7 @@
 
 ## Övningar
 
-* Responsiv design med `clamp()`
+* [Responsiv design med `clamp()`](https://github.com/Lexicon-frontend-2025/HTML-CSS_uppgift-clamp/blob/main/README.md)
 * Anpassa komponenter med media/container queries
 * Bygg formulär med olika `input`-typer och validering
 * Skapa en dialog/modal med `<dialog>` och tillgänglig hantering
