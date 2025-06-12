@@ -11,7 +11,7 @@
 3. Förstå tillgänglighetsaspekter vid användning av **formulär** och olika `input`-typer.
 4. Kunna skapa formulär med korrekt **semantik**, **etiketter**, **validering** (basic HTML5).
 
-## 📑 Material
+## 📚 Material
 
 #### E-Learning:
 
@@ -47,7 +47,7 @@
 
 * [HTML-element](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
 
-## 📆 Lektionsrepon
+## 📑 Lektionsrepon
 
 * **[Måndag](https://github.com/Lexicon-frontend-2025/lektion-16-juni)** – Fluid design: clamp, media queries, container queries. Övning i responsiv design. Arbete med Planned Planthood.
 * **[Tisdag](https://github.com/Lexicon-frontend-2025/lektion-17-juni)** – Formulär: inputs, input types, labels, grundläggande validering, tillgänglighet. Övning i formulär. Arbete med Planned Planthood.
