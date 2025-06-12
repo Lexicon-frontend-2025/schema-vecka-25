@@ -41,7 +41,7 @@
 
 ## Slides
 
-* Kommer under veckan (läggs till i takt med lektionerna)
+* 
 
 ## Övrigt
 
