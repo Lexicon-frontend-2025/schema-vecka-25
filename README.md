@@ -28,7 +28,7 @@
 * [MDN – Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * [MDN - Container Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries)
 * [MDN – HTML Form Elements](https://developer.mozilla.org/en-US/docs/Learn/Forms)
-* [Clamp, min, max](https://ishadeed.com/article/css-min-max-clamp/)
+* [Clamp, min, max](https://ishadeed.com/article/css-min-max-clamp/) och/eller [CSS min, max, and clamp på web.dev](https://web.dev/articles/min-max-clamp)
 
 ## Övningar
 * [Responsiv design med `clamp()`](https://github.com/Lexicon-frontend-2025/HTML-CSS_uppgift-clamp/blob/main/README.md)
