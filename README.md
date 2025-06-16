@@ -9,7 +9,7 @@
 1. Förstå och kunna använda **fluid design-principer** med `clamp()`, `min()`, `max()` och relativa enheter (`vw`, `%`, `em`, `rem`) för skalbara layouts.
 2. Lära sig använda **media queries** och **container queries** för att skapa responsiva och komponentbaserade designmönster.
 3. Förstå tillgänglighetsaspekter vid användning av **formulär** och olika `input`-typer.
-4. Kunna skapa formulär med korrekt **semantik**, **etiketter**, **validering** (basic HTML5).
+4. Kunna skapa formulär med korrekt **semantik**, **etiketter**, **validering** _(basic HTML5)_.
 
 ## 📚 Material
 
