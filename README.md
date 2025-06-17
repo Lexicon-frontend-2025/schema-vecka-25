@@ -32,8 +32,7 @@
 
 ## Övningar
 * [Responsiv design med `clamp()`](https://github.com/Lexicon-frontend-2025/HTML-CSS_uppgift-clamp/blob/main/README.md)
-* Anpassa komponenter med media/container queries
-* Bygg formulär med olika `input`-typer och validering
+* [Bygg formulär med olika `input`-typer och validering](https://github.com/Lexicon-frontend-2025/HTML-CSS_uppgift-forms/blob/main/README.md)
 
 ## Övrigt
 
