@@ -35,9 +35,6 @@
 * Anpassa komponenter med media/container queries
 * Bygg formulär med olika `input`-typer och validering
 
-## Slides
-* 
-
 ## Övrigt
 
 * [HTML-element](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
