@@ -59,10 +59,10 @@ Visa och berätta om
 ### Grupper och tider
 | Grupp | Medlemmar | Tid | Lärare |
 | ------- | ------- | ------- | ------- |
-| Grupp 1 | Nicole, Anastasiya, Ali, Kristian, Andreas | 09:15-10:00 | Maja |
-| Grupp 2 | Alexander E, Federico, Arvid, Valeriia, Isabelle| 09:15-10:00 | Robert |
-| Grupp 3 | Lorenzo, Malin, Emil, Christopher | 10:15-10:55 | Maja |
-| Grupp 4 | Karl Ragnar, Alexander S, Hanna, Hugo | 10:15-10:55 | Robert |
+| Grupp 1 | Nicole, Anastasiya, Ali, Kristian, Andreas | 09:15 - 10:00 | Maja |
+| Grupp 2 | Alexander E, Federico, Arvid, Valeriia, Isabelle| 09:15 - 10:00 | Robert |
+| Grupp 3 | Lorenzo, Malin, Emil, Christopher | 10:15 - 10:55 | Maja |
+| Grupp 4 | Karl Ragnar, Alexander S, Hanna, Hugo | 10:15 - 10:55 | Robert |
 | Grupp 5 | Tobias, Mikael, Naseem, Christian | 11:10 - 11:50| Maja |
 | Grupp 6 | Linda, Pernilla, Anders, Aref | 11:10 - 11:50 | Robert |
-| Grupp 7 | Tommy, James, Ardalan Christoffer | 13:00-13:40 | Maja och Robert |
+| Grupp 7 | Tommy, James, Ardalan Christoffer | 13:00 - 13:40 | Maja och Robert |
