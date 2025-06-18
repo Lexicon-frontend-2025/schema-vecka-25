@@ -67,6 +67,8 @@ Visa och berätta om
 | Grupp 6 | Linda, Pernilla, Anders, Aref | 11:10 - 11:50 | Robert |
 | Grupp 7 | Tommy, James, Ardalan, Christoffer | 13:10 - 13:50 | Maja och Robert |
 
+---
+
 ## ✅ Inlämning
 Inlämning sker via den privata teamschatten med oss lärare. Ni länkar till ert repo, var nogrann med att repot är publikt så vi kan se det utan problem. Lämna in senast **19/6 kl.15:00**.
 
