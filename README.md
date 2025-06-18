@@ -65,4 +65,4 @@ Visa och berätta om
 | Grupp 4 | Karl Ragnar, Alexander S, Hanna, Hugo | 10:15 - 10:55 | Robert |
 | Grupp 5 | Tobias, Mikael, Naseem, Christian | 11:10 - 11:50| Maja |
 | Grupp 6 | Linda, Pernilla, Anders, Aref | 11:10 - 11:50 | Robert |
-| Grupp 7 | Tommy, James, Ardalan Christoffer | 13:00 - 13:40 | Maja och Robert |
+| Grupp 7 | Tommy, James, Ardalan Christoffer | 13:10 - 13:50 | Maja och Robert |
