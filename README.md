@@ -58,6 +58,7 @@ Visa och berätta om
 
 ### Grupper och tider
 | Grupp | Medlemmar | Tid | Lärare |
+| ------- | ------- | ------- | ------- |
 | Grupp 1 | Nicole, Anastasiya, Ali, Kristian, Andreas | 09:15-10:00 | Maja |
 | Grupp 2 | Alexander E, Federico, Arvid, Valeriia, Isabelle| 09:15-10:00 | Robert |
 | Grupp 3 | Lorenzo, Malin, Emil, Christopher | 10:15-10:55 | Maja |
